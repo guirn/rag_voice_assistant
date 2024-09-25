@@ -1,0 +1,13 @@
+langchain 
+langchain-community
+faiss-cpu 
+llama-cpp-python 
+PyPDF2
+pypdf
+sentence-transformers
+datasets
+torch
+torchaudio
+sentencepiece
+soundfile
+gradio
